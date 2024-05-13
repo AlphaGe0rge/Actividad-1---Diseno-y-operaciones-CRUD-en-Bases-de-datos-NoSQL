@@ -1,0 +1,268 @@
+Jugadores
+
+
+
+{
+  "_id": {
+    "$oid": "6636740e4c26c61b7ebd084e"
+  },
+  "nombre": "Lionel Messi",
+  "nacionalidad": "Argentina",
+  "edad": 35,
+  "posicion": "Delantero",
+  "equipo": "Inter de Miami"
+}
+{
+  "_id": {
+    "$oid": "6636740e4c26c61b7ebd084f"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "nacionalidad": "Portugal",
+  "edad": 37,
+  "posicion": "Delantero",
+  "equipo": "Al-Nassr"
+}
+{
+  "_id": {
+    "$oid": "6636740e4c26c61b7ebd0850"
+  },
+  "nombre": "Neymar Jr",
+  "nacionalidad": "Brasil",
+  "edad": 30,
+  "posicion": "Delantero",
+  "equipo": "Paris Saint Germain"
+}
+{
+  "_id": {
+    "$oid": "6636740e4c26c61b7ebd0851"
+  },
+  "nombre": "Kevin De Bruyne",
+  "nacionalidad": "Belgica",
+  "edad": 30,
+  "posicion": "Centrocampista",
+  "equipo": "Manchester City"
+}
+{
+  "_id": {
+    "$oid": "6636740e4c26c61b7ebd0852"
+  },
+  "nombre": "Virgil Van Dijk",
+  "nacionalidad": "Paises Bajos",
+  "edad": 30,
+  "posicion": "Defensa",
+  "equipo": "Liverpool"
+}
+
+
+
+
+Entrenadores
+
+
+
+{
+  "_id": {
+    "$oid": "663677f04c26c61b7ebd0859"
+  },
+  "nombre": "Pep Guardiola",
+  "nacionalidad": "España",
+  "edad": 51,
+  "experiencia": "Barcelona, Bayern Munich y Manchester City",
+  "equipo": "Manchester City"
+}
+{
+  "_id": {
+    "$oid": "663677f04c26c61b7ebd085a"
+  },
+  "nombre": "Jurgen Klopp",
+  "nacionalidad": "Alemania",
+  "edad": 55,
+  "experiencia": "Borussia Dormunt y Liverpool",
+  "equipo": "Liverpool"
+}
+{
+  "_id": {
+    "$oid": "663677f04c26c61b7ebd085b"
+  },
+  "nombre": "Luis Enrique",
+  "nacionalidad": "España",
+  "edad": 53,
+  "experiencia": "Barcelona y Paris Saint Germain",
+  "equipo": "Paris Saint Germain"
+}
+{
+  "_id": {
+    "$oid": "663677f04c26c61b7ebd085c"
+  },
+  "nombre": "Tata Martino",
+  "nacionalidad": "Argentina",
+  "edad": 61,
+  "experiencia": "Barcelona y Inter de Miami",
+  "equipo": "Inter de Miami"
+}
+{
+  "_id": {
+    "$oid": "663677f04c26c61b7ebd085d"
+  },
+  "nombre": "Luis Castro",
+  "nacionalidad": "Portugal",
+  "edad": 62,
+  "experiencia": "Porto y Al- Nassr",
+  "equipo": "Al- Nassr"
+}
+
+
+
+Encuentros
+
+
+
+{
+  "_id": {
+    "$oid": "66367d834c26c61b7ebd086b"
+  },
+  "fecha": "2024-05-01",
+  "hora": "15:00",
+  "equipo_local": "Manchester City",
+  "equipo_visitante": "Liverpool",
+  "arbitro_principal": "Howard Webb"
+}
+{
+  "_id": {
+    "$oid": "66367d834c26c61b7ebd086c"
+  },
+  "fecha": "2024-05-02",
+  "hora": "16:00",
+  "equipo_local": "Inter de Miami",
+  "equipo_visitante": "Al- Nassr",
+  "arbitro_principal": "Bjorn Kuipers"
+}
+{
+  "_id": {
+    "$oid": "66367d834c26c61b7ebd086d"
+  },
+  "fecha": "2024-05-03",
+  "hora": "14:00",
+  "equipo_local": "Paris Saint Germain",
+  "equipo_visitante": "Liverpool",
+  "arbitro_principal": "Felix Brych"
+}
+{
+  "_id": {
+    "$oid": "66367d834c26c61b7ebd086e"
+  },
+  "fecha": "2024-05-04",
+  "hora": "13:00",
+  "equipo_local": "Al- Nassr",
+  "equipo_visitante": "Manchester City",
+  "arbitro_principal": "Anthony Taylor"
+}
+{
+  "_id": {
+    "$oid": "66367d834c26c61b7ebd086f"
+  },
+  "fecha": "2024-05-05",
+  "hora": "16:00",
+  "equipo_local": "Inter de Miami",
+  "equipo_visitante": "Paris Saint Germain",
+  "arbitro_principal": "Daniel Orsato"
+}
+
+
+
+
+Arbitros
+
+
+{
+  "_id": {
+    "$oid": "66367a334c26c61b7ebd0864"
+  },
+  "nombre": "Howard Webb",
+  "edad": 50,
+  "nacionalidad": "Inglaterra"
+}
+{
+  "_id": {
+    "$oid": "66367a334c26c61b7ebd0865"
+  },
+  "nombre": "Bjorn Kuipers",
+  "edad": 48,
+  "nacionalidad": "Paises Bajos"
+}
+{
+  "_id": {
+    "$oid": "66367a334c26c61b7ebd0866"
+  },
+  "nombre": "Felix Brych",
+  "edad": 46,
+  "nacionalidad": "Alemania"
+}
+{
+  "_id": {
+    "$oid": "66367a334c26c61b7ebd0867"
+  },
+  "nombre": "Anthony Taylor",
+  "edad": 42,
+  "nacionalidad": "Inglaterra"
+}
+{
+  "_id": {
+    "$oid": "66367a334c26c61b7ebd0868"
+  },
+  "nombre": "Daniel Orsato",
+  "edad": 47,
+  "nacionalidad": "Italia"
+}
+
+
+
+
+Resultados
+
+
+{
+  "_id": {
+    "$oid": "66367f6c4c26c61b7ebd0872"
+  },
+  "encuentro": "Manchester City vs Liverpool",
+  "goles_equipo_local": 3,
+  "goles_equipo_visitante": 2,
+  "ganador": "Manchester City"
+}
+{
+  "_id": {
+    "$oid": "66367f6c4c26c61b7ebd0873"
+  },
+  "encuentro": "Inter de Miami vs Al- Nassr",
+  "goles_equipo_local": 2,
+  "goles_equipo_visitante": 2,
+  "ganador": "empate"
+}
+{
+  "_id": {
+    "$oid": "66367f6c4c26c61b7ebd0874"
+  },
+  "encuentro": "Paris Saint Germain vs Liverpool",
+  "goles_equipo_local": 2,
+  "goles_equipo_visitante": 4,
+  "ganador": "Liverpool"
+}
+{
+  "_id": {
+    "$oid": "66367f6c4c26c61b7ebd0875"
+  },
+  "encuentro": "Al- Nassr vs Manchester City",
+  "goles_equipo_local": 0,
+  "goles_equipo_visitante": 3,
+  "ganador": "Manchester City"
+}
+{
+  "_id": {
+    "$oid": "66367f6c4c26c61b7ebd0876"
+  },
+  "encuentro": "Inter de Miami vs Paris Saint Germain",
+  "goles_equipo_local": 2,
+  "goles_equipo_visitante": 1,
+  "ganador": "Inter de Miami"
+}
